@@ -27,4 +27,7 @@ Table Name: movies
 ## How to Run
 1. Run movies.sql in MySQL
 2. Open project in Eclipse
+
 3. Run main Java file
+4. (before running the file download connector j and in eclipse in my project add connector j throw buildpath-class path add jar connector j extracted mysql connector(with all its jar file it will upload) then only it will connect mysql to java files)
+5. (i couldnt upload it because of its size)
